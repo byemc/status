@@ -18,9 +18,9 @@ status-website:
   theme: ocean
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: www.byemc.xyz
-  baseUrl: /status
-  name: ByeMC's Status
+  cname: status.byemc.xyz
+  #baseUrl: /status
+  name: "ByeMC's Status"
   introTitle: "**Bye's site status**"
   navbar:
     - title: Status
