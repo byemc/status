@@ -1,6 +1,7 @@
 # Change these first
 owner: byemc # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
+user-agent: byemc
 
 sites:
   - name: "Bye's Site"
@@ -10,15 +11,17 @@ sites:
   - name: ByeCorps
     url: https://byecorps.com
 
+assignees:
+  - byemc
+  
 status-website:
+  theme: ocean
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: www.byemc.xyz
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: ByeMC's Status
   introTitle: "**Bye's site status**"
-  introMessage: 
   navbar:
     - title: Status
       href: /
