@@ -10,8 +10,6 @@ sites:
     url: https://static.byemc.xyz
   - name: ByeCorps
     url: https://byecorps.com
-  - name: Fake Site
-    url: https://byemc.xyz/fakepage.html
 
 assignees:
   - byemc
