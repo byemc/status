@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/byemc-github-io-testing.pages.dev",
     "slug": "bye-s-site-testing",
     "status": "up",
-    "uptime": "3.24%",
-    "uptimeDay": "3.24%",
-    "uptimeWeek": "3.24%",
-    "uptimeMonth": "3.24%",
-    "uptimeYear": "3.24%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 273,
     "timeDay": 273,
     "timeWeek": 273,
     "timeMonth": 273,
     "timeYear": 273,
-    "dailyMinutesDown": {
-      "2022-03-22": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ByeMC Static",
