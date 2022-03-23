@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 129,
-    "timeDay": 118,
-    "timeWeek": 128,
-    "timeMonth": 123,
-    "timeYear": 129,
+    "time": 130,
+    "timeDay": 166,
+    "timeWeek": 137,
+    "timeMonth": 126,
+    "timeYear": 130,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 301,
-    "timeDay": 329,
-    "timeWeek": 301,
-    "timeMonth": 301,
-    "timeYear": 301,
+    "time": 222,
+    "timeDay": 196,
+    "timeWeek": 222,
+    "timeMonth": 222,
+    "timeYear": 222,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 138,
-    "timeDay": 112,
-    "timeWeek": 142,
-    "timeMonth": 133,
-    "timeYear": 138,
+    "time": 141,
+    "timeDay": 199,
+    "timeWeek": 157,
+    "timeMonth": 138,
+    "timeYear": 141,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,16 @@
     "icon": "https://favicons.githubusercontent.com/bye.betteruptime.com",
     "slug": "status-2",
     "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 1464,
-    "timeDay": 1464,
-    "timeWeek": 1464,
-    "timeMonth": 1464,
-    "timeYear": 1464,
-    "dailyMinutesDown": {
-      "2022-03-23": 3
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1495,
+    "timeDay": 1495,
+    "timeWeek": 1495,
+    "timeMonth": 1495,
+    "timeYear": 1495,
+    "dailyMinutesDown": {}
   }
 ]
