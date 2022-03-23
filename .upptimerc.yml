@@ -8,10 +8,10 @@ sites:
     url: https://www.byemc.xyz
   - name: "Bye's Site (testing)"
     url: https://byemc-github-io-testing.pages.dev
-  - name: ByeMC Static
-    url: https://static.byemc.xyz
   - name: ByeCorps
     url: https://byecorps.com
+  - name: Status (2)
+    url: https://bye.betterstatus.com
 
 assignees:
   - byemc
