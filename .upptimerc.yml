@@ -10,6 +10,10 @@ sites:
     url: https://byemc-github-io-testing.pages.dev
   - name: ByeCorps
     url: https://byecorps.com
+  - name: MC Server
+    check: "tcp-ping"
+    url: mc.byemc.xyz
+    port: 25565
   - name: Status (2)
     url: https://bye.betteruptime.com
 
