@@ -12,7 +12,7 @@ sites:
     url: https://byecorps.com
   - name: MC Server
     check: "tcp-ping"
-    url: mc.byemc.xyz
+    url: $MC_SERVER # hidden, the previous commit had the wrong url anyway
     port: 25565
   - name: Status (2)
     url: https://bye.betteruptime.com
