@@ -11,7 +11,7 @@ sites:
   - name: ByeCorps
     url: https://byecorps.com
   - name: Status (2)
-    url: https://bye.betterstatus.com
+    url: https://bye.betteruptime.com
 
 assignees:
   - byemc
@@ -27,7 +27,7 @@ status-website:
     - title: Status
       href: /
     - title: Backup Status
-      href: https://bye.betterstatus.com
+      href: https://bye.betteruptime.com
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: byemc.xyz
