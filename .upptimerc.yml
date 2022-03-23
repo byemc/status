@@ -23,10 +23,11 @@ status-website:
   cname: status.byemc.xyz
   #baseUrl: /status
   name: "ByeMC's Status"
-  introTitle: "**Bye's site status**"
   navbar:
     - title: Status
       href: /
+    - title: Backup Status
+      href: https://bye.betterstatus.com
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: byemc.xyz
