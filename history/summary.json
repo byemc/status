@@ -76,9 +76,9 @@
     "url": "https://bye.betteruptime.com",
     "icon": "https://favicons.githubusercontent.com/bye.betteruptime.com",
     "slug": "status-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,6 +87,8 @@
     "timeWeek": 1195,
     "timeMonth": 1365,
     "timeYear": 1365,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-16": 0
+    }
   }
 ]
