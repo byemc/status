@@ -6,16 +6,10 @@ user-agent: byemc
 sites:
   - name: "Bye's Site"
     url: https://www.byemc.xyz
-  - name: "Bye's Site (testing)"
-    url: https://byemc-github-io-testing.pages.dev
   - name: ByeCorps
     url: https://byecorps.com
-  - name: MC Server
-    check: "tcp-ping"
-    url: $MC_SERVER # hidden, the previous commit had the wrong url anyway
-    port: 25565
-  - name: Status (2)
-    url: https://bye.betteruptime.com
+  - name: ByeCasts
+    url: https://byecasts.com
 
 assignees:
   - byemc
@@ -24,7 +18,7 @@ status-website:
   theme: ocean
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.byemc.xyz
+  cname: status2.byemc.xyz
   #baseUrl: /status
   name: "ByeMC's Status"
   navbar:
