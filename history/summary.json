@@ -58,17 +58,19 @@
     "url": "http://bbapi.byemc.xyz/info",
     "icon": "https://favicons.githubusercontent.com/bbapi.byemc.xyz",
     "slug": "bye-bot-discord",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 528,
-    "timeDay": 528,
-    "timeWeek": 528,
-    "timeMonth": 528,
-    "timeYear": 528,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 483,
+    "timeDay": 483,
+    "timeWeek": 483,
+    "timeMonth": 483,
+    "timeYear": 483,
+    "dailyMinutesDown": {
+      "2022-05-29": 0
+    }
   }
 ]
