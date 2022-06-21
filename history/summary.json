@@ -4,28 +4,30 @@
     "url": "https://www.byemc.xyz",
     "icon": "https://favicons.githubusercontent.com/www.byemc.xyz",
     "slug": "bye-s-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 137,
-    "timeDay": 95,
-    "timeWeek": 141,
-    "timeMonth": 163,
-    "timeYear": 137,
-    "dailyMinutesDown": {}
+    "time": 234,
+    "timeDay": 7818,
+    "timeWeek": 2066,
+    "timeMonth": 629,
+    "timeYear": 234,
+    "dailyMinutesDown": {
+      "2022-06-21": 3
+    }
   },
   {
     "name": "ByeCorps",
     "url": "https://byecorps.com",
     "icon": "https://favicons.githubusercontent.com/byecorps.com",
     "slug": "bye-corps",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 140,
@@ -33,17 +35,19 @@
     "timeWeek": 133,
     "timeMonth": 153,
     "timeYear": 140,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 2
+    }
   },
   {
     "name": "ByeCasts",
     "url": "https://byecasts.com",
     "icon": "https://favicons.githubusercontent.com/byecasts.com",
     "slug": "bye-casts",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1101,
@@ -51,14 +55,16 @@
     "timeWeek": 656,
     "timeMonth": 1132,
     "timeYear": 1101,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 2
+    }
   },
   {
     "name": "ByeBot (discord)",
     "url": "http://bbapi.byemc.xyz/info",
     "icon": "https://favicons.githubusercontent.com/bbapi.byemc.xyz",
     "slug": "bye-bot-discord",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -70,6 +76,7 @@
     "timeMonth": 452,
     "timeYear": 452,
     "dailyMinutesDown": {
+      "2022-06-21": 0,
       "2022-06-01": 21,
       "2022-05-29": 3
     }
